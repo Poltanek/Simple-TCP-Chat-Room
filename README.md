@@ -2,6 +2,7 @@
 A **TCP Chat System** created through **Python** where I began to learn sockets and threading and eventually I plan to create a voice chat and screen sharing as well to join a chat they will need to type in the correct port details to join.   
 
 # Installation & Running Requirements
+- Clone Repository
 - Python 3.11.9
 - Install Tkinter Library
 - Visual Studio Code
